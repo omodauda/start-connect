@@ -1,5 +1,11 @@
 # hyphae-startconnect
 
+StartNG 2020 Final project.<br />
+
+start-connect is a web app built to connect startNG finalist with prospective employers.<br />
+
+API live link: <a>https://fast-meadow-93023.herokuapp.com/</a>
+----
 **Create accounts**
 ----
 Register as an intern
